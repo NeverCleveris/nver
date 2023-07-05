@@ -1,0 +1,5 @@
+AddDefaultCharset utf-8
+AddType 'text/html; charset=utf-8' .html .htm .shtml
+php_flag display_errors off
+php_flag display_startup_errors off
+
